@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on presales of Cisco AppDynamics
-
+- 🔭 I’m currently working on Solution Architect at Cognite Japan
 
 <!--
 **goto-satoru/goto-satoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
