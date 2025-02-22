@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+LinkedIn profile: https://www.linkedin.com/in/goto-satoru/
+
 
 <!--
 **goto-satoru/goto-satoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
